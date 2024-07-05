@@ -1,0 +1,10 @@
+lab11oop.Task1
+lab11oop.Task3
+lab11oop.CompareY
+lab11oop.Task2
+lab11oop.Lab11OOP
+lab11oop.Task5
+lab11oop.Task4
+lab11oop.Task6
+lab11oop.Main
+lab11oop.Point
